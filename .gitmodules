@@ -40,18 +40,9 @@
 [submodule "pack/git-plugins/start/ale"]
 	path = pack/git-plugins/start/ale
 	url = https://github.com/w0rp/ale.git
-[submodule "pack/git-plugins/start/vim-rails"]
-	path = pack/git-plugins/start/vim-rails
-	url = https://github.com/tpope/vim-rails
 [submodule "pack/git-plugins/start/gundo"]
 	path = pack/git-plugins/start/gundo
 	url = http://github.com/sjl/gundo.vim.git
-[submodule "pack/git-plugins/start/vim-ruby-refactoring"]
-	path = pack/git-plugins/start/vim-ruby-refactoring
-	url = https://github.com/ecomba/vim-ruby-refactoring
-[submodule "pack/git-plugins/start/vim-reek"]
-	path = pack/git-plugins/start/vim-reek
-	url = https://github.com/rainerborene/vim-reek
 [submodule "pack/git-plugins/start/vim-terraform"]
 	path = pack/git-plugins/start/vim-terraform
 	url = https://github.com/hashivim/vim-terraform.git

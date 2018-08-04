@@ -28,12 +28,6 @@
 [submodule "vipe"]
 	path = pack/git-plugins/start/vipe
 	url = https://github.com/luan/vipe
-[submodule "vim-gnupg"]
-	path = pack/git-plugins/start/vim-gnupg
-	url = https://github.com/jamessan/vim-gnupg
-[submodule "ack-vim"]
-	path = pack/git-plugins/start/ack-vim
-	url = https://github.com/mileszs/ack.vim.git
 [submodule "ctrlp"]
 	path = pack/git-plugins/start/ctrlp
 	url = https://github.com/ctrlpvim/ctrlp.vim

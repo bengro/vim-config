@@ -49,3 +49,6 @@
 [submodule "pack/git-plugins/start/typescript-vim"]
 	path = pack/git-plugins/start/typescript-vim
 	url = https://github.com/leafgarland/typescript-vim.git
+[submodule "pack/git-plugins/start/editorconfig-vim"]
+	path = pack/git-plugins/start/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git

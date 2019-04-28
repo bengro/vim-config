@@ -61,3 +61,6 @@
 [submodule "pack/git-plugins/start/vim-ack"]
 	path = pack/git-plugins/start/vim-ack
 	url = https://github.com/toranb/vim-ack.git
+[submodule "pack/git-plugins/start/vim-json"]
+	path = pack/git-plugins/start/vim-json
+	url = https://github.com/elzr/vim-json

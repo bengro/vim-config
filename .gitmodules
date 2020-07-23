@@ -19,9 +19,6 @@
 [submodule "vim-gitgutter"]
 	path = pack/git-plugins/start/vim-gitgutter
 	url = git://github.com/airblade/vim-gitgutter.git
-[submodule "vim-go"]
-	path = pack/git-plugins/start/vim-go
-	url = https://github.com/fatih/vim-go.git
 [submodule "vim-projectionist"]
 	path = pack/git-plugins/start/vim-projectionist
 	url = https://github.com/tpope/vim-projectionist
@@ -43,12 +40,6 @@
 [submodule "pack/git-plugins/start/nerdtree"]
 	path = pack/git-plugins/start/nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
-[submodule "pack/git-plugins/start/tsuquyomi"]
-	path = pack/git-plugins/start/tsuquyomi
-	url = https://github.com/Quramy/tsuquyomi.git
-[submodule "pack/git-plugins/start/typescript-vim"]
-	path = pack/git-plugins/start/typescript-vim
-	url = https://github.com/leafgarland/typescript-vim.git
 [submodule "pack/git-plugins/start/editorconfig-vim"]
 	path = pack/git-plugins/start/editorconfig-vim
 	url = https://github.com/editorconfig/editorconfig-vim.git

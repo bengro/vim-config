@@ -7,33 +7,18 @@
 [submodule "vim-unimpaired"]
 	path = pack/git-plugins/start/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
-[submodule "vim-cdo"]
-	path = pack/git-plugins/start/vim-cdo
-	url = https://github.com/Peeja/vim-cdo.git
 [submodule "vim-repeat"]
 	path = pack/git-plugins/start/vim-repeat
 	url = https://github.com/tpope/vim-repeat.git
 [submodule "vim-commentary"]
 	path = pack/git-plugins/start/vim-commentary
 	url = https://github.com/tpope/vim-commentary.git
-[submodule "vim-gitgutter"]
-	path = pack/git-plugins/start/vim-gitgutter
-	url = git://github.com/airblade/vim-gitgutter.git
-[submodule "vim-projectionist"]
-	path = pack/git-plugins/start/vim-projectionist
-	url = https://github.com/tpope/vim-projectionist
-[submodule "vipe"]
-	path = pack/git-plugins/start/vipe
-	url = https://github.com/luan/vipe
 [submodule "ctrlp"]
 	path = pack/git-plugins/start/ctrlp
 	url = https://github.com/ctrlpvim/ctrlp.vim
 [submodule "pack/git-plugins/start/ale"]
 	path = pack/git-plugins/start/ale
-	url = https://github.com/w0rp/ale.git
-[submodule "pack/git-plugins/start/gundo"]
-	path = pack/git-plugins/start/gundo
-	url = http://github.com/sjl/gundo.vim.git
+	url = https://github.com/dense-analysis/ale.git
 [submodule "pack/git-plugins/start/vim-terraform"]
 	path = pack/git-plugins/start/vim-terraform
 	url = https://github.com/hashivim/vim-terraform.git
@@ -43,15 +28,9 @@
 [submodule "pack/git-plugins/start/editorconfig-vim"]
 	path = pack/git-plugins/start/editorconfig-vim
 	url = https://github.com/editorconfig/editorconfig-vim.git
-[submodule "pack/git-plugins/start/vim-test"]
-	path = pack/git-plugins/start/vim-test
-	url = https://github.com/janko-m/vim-test.git
 [submodule "pack/git-plugins/start/vim-system-copy"]
 	path = pack/git-plugins/start/vim-system-copy
 	url = https://github.com/christoomey/vim-system-copy.git
 [submodule "pack/git-plugins/start/vim-ack"]
 	path = pack/git-plugins/start/vim-ack
 	url = https://github.com/toranb/vim-ack.git
-[submodule "pack/git-plugins/start/vim-json"]
-	path = pack/git-plugins/start/vim-json
-	url = https://github.com/elzr/vim-json
